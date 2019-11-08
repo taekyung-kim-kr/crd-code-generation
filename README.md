@@ -3,8 +3,8 @@
 TL;DR
 
 1. git clone
-  - git clone https://github.com/taekyung-kim-kr/code-generator-mod.git
-  - git clone https://github.com/taekyung-kim-kr/crd-code-generation.git
+    - git clone https://github.com/taekyung-kim-kr/code-generator-mod.git
+    - git clone https://github.com/taekyung-kim-kr/crd-code-generation.git
 
 2. within code-generator-mod
 2.1 ./build.sh
