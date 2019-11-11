@@ -14,7 +14,7 @@ TL;DR
 3. within crd-code-generation
     - cd artifacts && kubectl apply -f databases-crd.yaml && kubectl apply -f my-database.yaml
     - cd cmd/example && go build -o example
-    - ./example -kubeconfig ./.kube/config
+    - ./example -kubeconfig ~/.kube/config
 
 references
 1. https://github.com/openshift-evangelists/crd-code-generation
